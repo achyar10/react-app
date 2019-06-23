@@ -1,0 +1,17 @@
+.wrap{
+    padding: 150px;
+}
+
+.flat{
+    border-radius: 0px !important;
+}
+
+.btn-success{
+    border-radius: 0px !important;
+    background-color: #23cba7 !important;
+    border-color: #23cba7 !important;
+}
+.btn-success:hover{
+    background-color: #29f1c3 !important;
+    border-color: #29f1c3 !important;
+}
